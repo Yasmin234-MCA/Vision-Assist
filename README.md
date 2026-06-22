@@ -37,6 +37,11 @@ Smart Navigation and Obstacle Detection for Visually Impaired
 3. Sync Gradle
 4. Run the application
 
+## API Configuration
+
+This project requires an API key to function properly.
+Before running the application, add your own API key in the appropriate configuration file.
+
 ## Future Enhancements
 
 * Text-to-speech improvements
