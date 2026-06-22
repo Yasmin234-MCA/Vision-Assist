@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.visionassist.app-mergeDebugResources-44:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\yasha\\.gradle\\caches\\9.0-milestone-1\\transforms\\c626a6545657f6299cf264777783d45c\\transformed\\material-1.11.0\\res\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                }
+            ]
+        }
+    ]
+}

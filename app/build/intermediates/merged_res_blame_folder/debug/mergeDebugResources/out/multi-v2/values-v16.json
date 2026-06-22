@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.visionassist.app-mergeDebugResources-44:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\yasha\\.gradle\\caches\\9.0-milestone-1\\transforms\\686f3b9ddc098e4e2d82e09d2fc9cc0d\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\yasha\\.gradle\\caches\\9.0-milestone-1\\transforms\\9b059fab981efaea2a3c1e944478a932\\transformed\\core-1.12.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
