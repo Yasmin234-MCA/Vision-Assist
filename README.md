@@ -5,7 +5,7 @@
 
    <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/3697db4a-1b4b-4790-9ae8-2317f8517e52"
+    src="https://github.com/user-attachments/assets/e783c8b0-7d36-4549-903c-f51a51ea81c6"
     width="250"
     style="background-color:#2563EB; padding:20px; border-radius:20px;"
     alt="Vision Assist Splash Screen"/>
