@@ -3,10 +3,10 @@
 ## 📖 About Project
 ### Smart Navigation and Obstacle Detection for Visually Impaired
 
-<p align="center">
-  
-  <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/7b5a2c90-26e0-4089-b4d3-74a92beed8cd" 
- alt="Vision Assist Splash Screen"/>
+   <p align="center">
+  <img src="https://github.com/user-attachments/assets/3697db4a-1b4b-4790-9ae8-2317f8517e52"
+       width="250"
+       alt="Vision Assist Splash Screen"/>
 </p>
 
 
