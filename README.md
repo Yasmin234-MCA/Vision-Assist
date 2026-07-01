@@ -56,9 +56,9 @@ Vision Assist is an 🤖 AI-powered Android application designed to support visu
 
 ## Screenshots
 ## App Permission Required Page
-<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/503e6d8c-aefe-4f44-95ab-95c21c65b895" />
-<img width="385" height="712" alt="image" src="https://github.com/user-attachments/assets/5561e871-efaf-41c4-871b-030f374cf0b9" />
-<img width="357" height="712" alt="image" src="https://github.com/user-attachments/assets/96ea319a-5fe5-473a-98a1-5062ecbe6c35" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/503e6d8c-aefe-4f44-95ab-95c21c65b895" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/5561e871-efaf-41c4-871b-030f374cf0b9" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/96ea319a-5fe5-473a-98a1-5062ecbe6c35" />
 
 
 
