@@ -3,7 +3,7 @@
 ## 📖 About Project
 ### Smart Navigation and Obstacle Detection for Visually Impaired
 
-<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/3697db4a-1b4b-4790-9ae8-2317f8517e52" />
+              <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/3697db4a-1b4b-4790-                 9ae8-2317f8517e52" />
 
 
 Vision Assist is an 🤖 AI-powered Android application designed to support visually impaired individuals through 🎯 real-time object detection and 🔊 voice-based assistance. The application leverages computer vision technology to identify objects and provide audio feedback, enhancing accessibility and user independence. It aims to create a more inclusive and user-friendly experience through intelligent assistive technology.
