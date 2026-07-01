@@ -3,6 +3,9 @@
 ## 📖 About Project
 ### Smart Navigation and Obstacle Detection for Visually Impaired
 
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/3697db4a-1b4b-4790-9ae8-2317f8517e52" />
+
+
 Vision Assist is an 🤖 AI-powered Android application designed to support visually impaired individuals through 🎯 real-time object detection and 🔊 voice-based assistance. The application leverages computer vision technology to identify objects and provide audio feedback, enhancing accessibility and user independence. It aims to create a more inclusive and user-friendly experience through intelligent assistive technology.
 
 ## ✨ Features
@@ -61,7 +64,25 @@ Vision Assist is an 🤖 AI-powered Android application designed to support visu
 <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/96ea319a-5fe5-473a-98a1-5062ecbe6c35" />
 
 ## Authentication Page            
-<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/8bae8b86-59a9-4617-8022-e8c6b6f650ee" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/271ef767-f430-4c06-9fd1-fba11bf58658" />
+
+## Selection Menu Page
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/dacc97fa-3b59-4a60-95c9-6457057888a1" />
+
+## Indoor Mode page
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/fdbf300b-a795-4286-a628-8b099da84b31" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/f580f1e6-89c1-4f71-a1f7-efbd1419fe12" />
+
+## Outdoor Mode Page
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/fe01d885-8572-4446-82c2-514ca89e249f" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/186e5f7b-3e06-4115-b3cf-1a855920bbfc" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/88d34dbf-c595-4a69-94ed-f339af3ed9c5" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/19405b81-113f-47f4-97f3-69b70656afff" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/aa4dae18-1d7c-4588-b24f-62b00092f610" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/a518c8f9-827b-47e4-a1bb-0dc996ca7f14" />
+
+
+
 
 
 
